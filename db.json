@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "name": "Bekant ahmed",
+      "email": "belgin_berk@abv.bg",
+      "password": "12345678",
+      "id": "xPFbBmrtStA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
